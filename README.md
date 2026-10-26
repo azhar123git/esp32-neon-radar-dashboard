@@ -27,6 +27,11 @@ Install the Python libraries: python -m pip install pyserial matplotlib numpy
 Set the correct serial port in radar.py.
 Close the Arduino Serial Monitor.
 Run python radar.py.
+
+## Project Screenshot
+
+![ESP32 Neon Radar Dashboard](NEON_RADAR___ESP32_CONTROL_CENTER.png)
+
 Author
 
 Azhar
